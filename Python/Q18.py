@@ -1,4 +1,4 @@
-##Number guessing game (simple version):Secret number = 7
+##Number guessing game (simple version):Secret number = 7..
 ##Let user guess (use while loop) until they guess correctly. After each wrong guess print "Too high" or "Too low".
 
 secret_number = 7
