@@ -1,5 +1,5 @@
 ##Create a simple traffic light simulator:
-##Ask user to enter "red", "yellow" or "green".
+##Ask user to enter "red", "yellow" or "green"..
 ##Print appropriate action:
 ##red → "STOP!"
 ##yellow → "Prepare to stop"
