@@ -1,5 +1,5 @@
 ##Shopping list manager" mini-project: Start with empty list. Keep asking user what to do in a while loop:
-##"add" → ask for item name and add to list , "remove" → ask which item to remove (by name)
+##"add" → ask for item name and add to list , "remove" → ask which item to remove (by name).
 ##"show" → print current shopping list , "quit" → exit the program , (use if-elif inside while loop)
 
 list = []  
