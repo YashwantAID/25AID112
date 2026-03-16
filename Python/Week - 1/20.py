@@ -31,4 +31,6 @@ while i == 0:
     else:
         print("Invalid action. Please choose from add, remove, show, or quit (in lowercase).")
 
+
+print("hi")
     
